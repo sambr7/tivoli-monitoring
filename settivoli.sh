@@ -2,7 +2,7 @@
 # ScriptName: settivoli.sh
 # Author: Samuel Januario (samuel.januario01@gmail)
 # Date: 25/07/2017
-# Purpose: Env Configuration for ITM 6 Environment
+# Purpose: Script to set ITM 6 Environment variables
 ######################################################################
 #!/usr/bin/bash
 
